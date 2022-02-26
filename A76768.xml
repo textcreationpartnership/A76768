@@ -1,0 +1,312 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bishops, iudges, monopolists</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76768</idno>
+            <idno type="STC">Wing B3026</idno>
+            <idno type="STC">Thomason E171_2</idno>
+            <idno type="STC">ESTC R8403</idno>
+            <idno type="EEBO-CITATION">99873304</idno>
+            <idno type="PROQUEST">99873304</idno>
+            <idno type="VID">157040</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76768)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157040)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 30:E171[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Bishops, iudges, monopolists</title>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1641]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire in verse.</note>
+                  <note>Caption title.</note>
+                  <note>First leaf signed A2.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Bishops --  Humor --  Early works to 1800.</term>
+               <term>Judges --  England --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:157040:1"/>
+            <pb n="1" facs="tcp:157040:1" rendition="simple:additions"/>
+            <head>Biſhops, Iudges, Monopoliſts.</head>
+            <div type="part">
+               <head>Biſhops.</head>
+               <lg>
+                  <l>WHat ſtrange earths tremor doth ſo agitate</l>
+                  <l>The late firme ſcite of our Epiſcopate!</l>
+                  <l>That what was layd a thouſand yeares ago,</l>
+                  <l>With hundreds added (as our Annals ſhow)</l>
+                  <l>Whoſe high Towers have their heads ſo proudly borne,</l>
+                  <l>Should ſuddenly be from their groundſils torne?</l>
+               </lg>
+               <lg>
+                  <l>Is it becauſe their ſtructures were ſo great,</l>
+                  <l>They made the groaning earth beneath them ſweat?</l>
+                  <l>Is it becauſe no bound could circumſcribe</l>
+                  <l>Th'expanſed power of that Levitick Tribe?</l>
+                  <l>Or that they had ingroſt into their hands</l>
+                  <l>Such ample purchaſe of the temporall lands?</l>
+                  <l>That, not with their due <hi>Decimates</hi> content,</l>
+                  <l>Both Tythe and Totall muſt encreaſe their rent?</l>
+                  <l>Or as <hi>Prelati,</hi> ſteering the Church helme,</l>
+                  <l>They thought t'out-brave the <hi>Pares</hi> of the Realme?</l>
+                  <l>Nay more than that, an higher ſtraine had runne,</l>
+                  <l>As divers proud prieſts had before them done?</l>
+                  <l>As <hi>Wolſtan, Becket, Wolſey,</hi> who durſt write,</l>
+                  <l>
+                     <hi>I and my King,</hi> even in his Soveraignes ſight:</l>
+                  <pb n="2" facs="tcp:157040:2"/>
+                  <l> And their ſucceſſors, like ambitious growne,</l>
+                  <l>Would make the Miter levell with the Crowne.</l>
+               </lg>
+               <lg>
+                  <l>Or that our modern Prelates have of late</l>
+                  <l>Sought to raiſe new combuſtions in our State;</l>
+                  <l>And as Incendiaries, thought to devour</l>
+                  <l>Their Countries freedome with their purſe and power</l>
+                  <l>Or that inclining to the <hi>Arminian</hi> Sect,</l>
+                  <l>And preaching in the Romiſh Dialect,</l>
+                  <l>They labor'd mongſt us Proteſtants to intrude</l>
+                  <l>What our Reformed Church did quite exclude?</l>
+                  <l>New Cannons, Oathes and Altars, bending low,</l>
+                  <l>To where, in time the Images muſt grow?</l>
+                  <l>Reviving antient and forgot Traditions,</l>
+                  <l>Grounded upon old Popiſh ſuperſtitions.</l>
+               </lg>
+               <lg>
+                  <l>Or that a ſtrange ſiniſtor courſe they tooke,</l>
+                  <l>In altering the Scottiſh Service booke;</l>
+                  <l>By which two ſiſter kingdomes were conſtraind</l>
+                  <l>Toopen wars, (which ſtiffely they maintaind.)</l>
+                  <l>Or that ſo far beyond all rationall bounds,</l>
+                  <l>By their rough conſures in the high Commiſſion,</l>
+                  <l>Not ſparing Prieſt, the Lawyer, nor Phyſitian?</l>
+                  <l>Their <hi>Ex Officio</hi> Oathes, their <hi>Ius</hi> Divine,</l>
+                  <l>And Clergy Coutts (which conſcience ſhould refine)</l>
+                  <l>More full of bribes, corruption, and blacke ſtaine,</l>
+                  <l>Than the lay benches they ſo much diſdaine.</l>
+                  <l>Yet could I wiſh, though all theſe have been prov'd,</l>
+                  <l>Th' offendors once being puniſht and remov'd,</l>
+                  <l>The function might remaine, to their diſgraces,</l>
+                  <l>To try who better might ſupply their places.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb n="3" facs="tcp:157040:2"/>
+               <head>Of Iudges.</head>
+               <lg>
+                  <l>CAn Iudges be corrupt, or ſtaggering ſtand,</l>
+                  <l>Who ſhould be fathers both of lawes and land</l>
+                  <l>They did of old upon wilde Aſſes ride,</l>
+                  <l>An emblem, that when doubts they did decide,</l>
+                  <l>They ſhould be ſlow in ſentence, and conſider</l>
+                  <l>The cauſe, (both parties being brought together.)</l>
+                  <l>Athens for them did Images deviſe:</l>
+                  <l>To intimate, nought ſhould from them be heard,</l>
+                  <l>Savoring either of favor or reward.</l>
+                  <l>But corrupt Iudges (ſuch no doubt there are)</l>
+                  <l>Puniſh the purſe, and ſtill the perſon ſpare.</l>
+                  <l>And I have heard from a moſt learned Speaker,</l>
+                  <l>That no Law-maker ſhould be a law-breaker.</l>
+                  <l>Hee's only a wiſe Iudge that ſtands in awe</l>
+                  <l>Of one God ſolely, one King, and one Law.</l>
+               </lg>
+               <lg>
+                  <l>But to our former <hi>Quaere;</hi> May it bee,</l>
+                  <l>That in theſe times we any Iudge ſhall ſee,</l>
+                  <l>Who on the Bench being ſeated as a god,</l>
+                  <l>Should be call'd thence, and beat with a Blacke Rod?</l>
+                  <l>Nor wonder is't; when ſome as grave and great,</l>
+                  <l>Have in the ſame or like Judiciall Seat,</l>
+                  <l>(Only to give his wit ſome vaine applauſe)</l>
+                  <l>Jeſted and jeer'd a poore man from his Cauſe.</l>
+                  <pb n="4" facs="tcp:157040:3"/>
+                  <l> But O you Judges, that your ſelves forget,</l>
+                  <l>And in the high ſeat of the Scornfull ſit;</l>
+                  <l>Who with the wicked have gon hand in hand,</l>
+                  <l>You in the future judgement ſhall not ſtand.</l>
+               </lg>
+               <lg>
+                  <l>But how of late are things growne out of order?</l>
+                  <l>When we ſhall ſee one from a bare Recorder,</l>
+                  <l>Rais'd unto ſuch an eminence of ſtate,</l>
+                  <l>That quite forgetting what he was but late,</l>
+                  <l>He ſhall through all Judiciall ſeats aſpire,</l>
+                  <l>Even till he gaines the height of his deſire:</l>
+                  <l>And then, through guilt of conſcience (none accuſing)</l>
+                  <l>(His place of ſoveraigne truſt ſo much abuſing)</l>
+                  <l>When ſtanding eminent in the Worlds broad eye,</l>
+                  <l>Then like a Finch to take his wings and fly,</l>
+                  <l>Leaving the Purſe and the Broad Seale behind him,</l>
+                  <l>As had they bin meere toyes, and did not mind them.</l>
+               </lg>
+               <lg>
+                  <l>But all have not the fortune to evade</l>
+                  <l>Their triall: for though ſome fly, ſome are ſtayd.</l>
+               </lg>
+               <lg>
+                  <l>When thoſe whoſe livelihoods are the lawes, indeed,</l>
+                  <l>By which they onely can ſubſiſt and feed,</l>
+                  <l>(Which ſuch ſworne Fathers ſhould as ſacred keep,</l>
+                  <l>And no houre in their execution ſleep)</l>
+                  <l>When ſuch ſhall ſeeke to extirpe the Lawes foundation,</l>
+                  <l>And in the ſtead thereof bring innovation;</l>
+                  <l>To them I leave the <hi>Magna Charta's</hi> curſe:</l>
+                  <l>Now let the better Judges judge the worſe.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb n="5" facs="tcp:157040:3"/>
+               <head>Of Monopoliſts.</head>
+               <lg>
+                  <l>HOw comes this ſwarme of Locuſts to appeare</l>
+                  <l>More this, then any other Temperate yeere,</l>
+                  <l>This crew of moaths and cankers that bereaves</l>
+                  <l>Our flouriſhing Orchard both of fruit and leaves?</l>
+                  <l>Who do not onely vex us here about,</l>
+                  <l>But peſter all the Trees the Realme throughout?</l>
+                  <l>I mean thoſe Drones, that fly about in miſts,</l>
+                  <l>Diveliſh <hi>Projectors,</hi> damn'd <hi>Monopoliſts,</hi>
+                  </l>
+                  <l>Who now are hid in holes and keepe a loofe,</l>
+                  <l>Being indeed not Parliamentall proofe.</l>
+                  <l>Yet may we finde them in our bread, our meat,</l>
+                  <l>In every draught or bit wee drinke or eat.</l>
+                  <l>Our Bevers and the Bootes wee plucke on, whether</l>
+                  <l>We have them made of Calve-skin, or Neats Leather,</l>
+                  <l>Our Salt and Oatmeal, Porridge are not free,</l>
+                  <l>But they from their ingredience muſt have fee:</l>
+                  <l>Our cloath, ſtuffe, lace, points, tagges, even to a pinne,</l>
+                  <l>Nay even the linen next unto our skinne,</l>
+                  <l>And needle it is ſow'd with: they make Boote,</l>
+                  <l>Of every thing we wear, from head to foote.</l>
+                  <l>Nay I may ſpeake it to them (with a pox)</l>
+                  <l>I find them even in my Tobacco box.</l>
+               </lg>
+               <lg>
+                  <l>To leave your petty feoffors and feoffees,</l>
+                  <l>And come to your brave skarlet Patentees.</l>
+                  <pb n="6" facs="tcp:157040:4"/>
+                  <l> Who when our ſope of ſweeteſt oyle was made,</l>
+                  <l>By which they drove a good and wholſom Trade.</l>
+                  <l>Theſe by an ingroſt Patent coveting gaine,</l>
+                  <l>Compos'd it all of ſtinking rape, and traine:</l>
+                  <l>For what care they, ſo it may make them rich,</l>
+                  <l>To fill our bodyes full of ſcabs and itch.</l>
+                  <l>Which was a great cauſe, as ſome Artiſts gueſt,</l>
+                  <l>To bring amongſt us a contagious peſt.</l>
+                  <l>And then thinkes one, where ſope hath fayl'd without,</l>
+                  <l>Balderdaſh wines within, will worke no doubt.</l>
+               </lg>
+               <lg>
+                  <l>And then comes in (that project once begun)</l>
+                  <l>New inpoſts upon every Pipe and Tun.</l>
+                  <l>The price of French and Spaniſh winds are raiſd,</l>
+                  <l>How ever in their worth deboyſt and craiſd.</l>
+                  <l>The ſubject ſuffers in each draught he ſwallows,</l>
+                  <l>For which may they be doomb'd unto the gallows.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Abel</hi> and <hi>Cain</hi> were ſhepheards (the Text ſaies)</l>
+                  <l>But which is ſtrange, turnd Vintners in theſe days.</l>
+                  <l>The wicked <hi>Caine</hi> his brother <hi>Abel</hi> ſlew:</l>
+                  <l>Which in theſe brother Vintners proves not true.</l>
+                  <l>For unto this day, <hi>Caine</hi> keepes up his ſigne,</l>
+                  <l>But <hi>Abel</hi> lyes drownd in his <hi>Medium</hi> wine.</l>
+                  <l>Projecting <hi>Kilvert</hi> (ſome ſay) was the cauſe,</l>
+                  <l>Who making new Lords, had deviſd new lawes.</l>
+                  <l>But thoſe that would the ancient cuſtome vary,</l>
+                  <l>Shall now ('tis thought) be made exempleary.</l>
+               </lg>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
